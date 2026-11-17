@@ -27,7 +27,7 @@ The github maintained by the authors of pgvector has detailed instructions for b
 <br><br>
 ## 🚀 Python / Fastapi setup
 
-This project uses Python 3.15.2 with **`uv`**, for package management.  It handles dependencies and can help manage or download Python versions.
+This project uses Python 3.15.2 with **`uv`** for package management.  It handles dependencies and can help manage or download Python versions.
 
 ### install `uv`
 Choose your operating system to install the standalone **`uv`** binary:
